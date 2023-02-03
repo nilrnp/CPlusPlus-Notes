@@ -1,0 +1,2 @@
+Rectangle 1: Length = 5, Width = 5, Area = 25
+Rectangle 2: Length = 10, Width = 10, Area = 100
